@@ -1,5 +1,7 @@
 # **Book Wishlist App**  
 
+![Book Wishlist App](https://github.com/PetromirDev/IU-DLBCSPJWD01/blob/957926d5ff103342442057498b11b0b13e1a2339/screenshots/dashboard-desktop.png)
+
 This project is built for **IU's** `Project: Java and Web Development (DLBCSPJWD01)` course. It is a simple web application that allows users to keep track of books they want to read.
 
 ## **Features**  
