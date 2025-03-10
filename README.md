@@ -36,13 +36,21 @@ cd IU-DLBCSPJWD01
 yarn install
 ```
 
-### **3. Start the application**  
+### **3. Initialize the database**
+```sh
+yarn init-db
+```
+Running this command will create a new SQLite database file with a test user and some sample books. To log in, use the following credentials:
+- **Email**: test@iu.org
+- **Password**: iutestacc
+
+### **4. Start the application**  
 ```sh
 yarn dev
 ```
 It will be available at **http://localhost:3000**  
 
-## **Building for Production**  
+## **Production build**  
 To build and start the production version:  
 ```sh
 yarn build
